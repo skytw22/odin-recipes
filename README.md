@@ -1,4 +1,4 @@
 # odin-recipes
-Odin Project: Recipes
+Exceise HTML foundations as part of The Odin project.
 
-A project to practice HTML foundations.
+Time used: 20 min.
